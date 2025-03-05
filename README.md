@@ -47,9 +47,4 @@ This project is licensed under the MIT License.
 
 ---
 
-### Author
-Developed by [Your Name]
-`;
 
-fs.writeFileSync('README.md', readmeContent, 'utf8');
-console.log('README.md file has been created successfully.');
