@@ -10,28 +10,20 @@ This project is a simple WebSocket server built with Node.js and Express. It all
 
 ## Installation
 1. **Clone the repository:**
-   \`\`\`sh
    git clone <repository-url>
-   \`\`\`
-2. **Navigate to the project folder:**
-   \`\`\`sh
-   cd <project-folder>
-   \`\`\`
-3. **Install dependencies:**
-   \`\`\`sh
-   npm install
-   \`\`\`
 
+2. **Navigate to the project folder:**
+   cd <project-folder>
+  
+3. **Install dependencies:**
+   npm install
+   
 ## Usage
 1. **Start the WebSocket server:**
-   \`\`\`sh
    node server.js
-   \`\`\`
 2. **Access the client:**
    Open a browser and go to:  
-   \`\`\`
    http://localhost/client
-   \`\`\`
 
 ## Ports
 - WebSocket Server: \`40\`
